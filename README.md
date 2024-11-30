@@ -297,19 +297,6 @@ Here are some ideas to get you started:
 <h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
     Stats
 </h3>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=#&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="#" />
-</p>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=#&show_icons=true&locale=en&theme=gruvbox" alt="#" />
-</p>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=#&theme=gruvbox" alt="#" />
-</p>
-
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
 
 <p align="center" style='margin: 8px 4px;'>
