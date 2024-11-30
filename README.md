@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 
 <p align="center" style='margin: 16px 4px 8px; display: flex; gap: 2rem;'>
     <img src="#" alt="github top commits rank" />
-    <img src="https://komarev.com/ghpvc/?username=utkarshpathrabe&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
+    <img src="#" alt="github profile views" />
 </p>
 
 <p align="center" style='margin: 16px 4px 8px;'>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=utkarshpathrabe&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
+    <a href="#">
+        <img src="#" alt="github profile stats" />
     </a>
 </p>
 
