@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Python+for+AI+development+Developer+from+Pakistan" alt="Welcome to my GitHub Profile. I am a passionate AI Engineer from Pakistan." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Python+for+AI+development+Developer" alt="Welcome to my GitHub Profile. I am a passionate AI Engineer from Pakistan." />
 </p>
 
 <h3 align='center' style='margin: 16px 4px;'>
