@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center" style='margin: 16px 4px 16px;'>
-    <a href="https://twitter.com/utkarshpathrabe" target="blank">
-        <img src="https://img.shields.io/twitter/follow/utkarshpathrabe?logo=twitter&style=for-the-badge" alt="twitter followers" />
+    <a href="https://twitter.com/#" target="blank">
+        <img src="https://img.shields.io/twitter/follow/#?logo=twitter&style=for-the-badge" alt="twitter followers" />
     </a>
 </p>
 
@@ -64,26 +64,26 @@ Here are some ideas to get you started:
     Connect with me:
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
-    <a href="https://twitter.com/utkarshpathrabe" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://twitter.com/#" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/#" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="mailto:uapathrabe@gmail.com" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:uapathrabe@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://linkedin.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/#" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://fb.com/" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="https://fb.com/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="https://fb.com/#" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://instagram.com/" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://www.youtube.com/" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/c/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/c/#" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://www.hackerrank.com/" target="blank" rel="noreferrer">
-        <img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="https://www.hackerrank.com/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="https://www.hackerrank.com/#" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://www.hackerearth.com/" target="blank" rel="noreferrer">
         <img align="center" src="https://static-fastly.hackerearth.com/newton/production/static/images/homepagev2/he_logo.svg" alt="https://www.hackerearth.com/@utkarsh46" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
@@ -97,45 +97,45 @@ Here are some ideas to get you started:
     Languages and Tools:
 </h3>
 <p align="center" style='margin: 16px 4px 32px;'>
-<!--     <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <a href="https://angular.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a> -->
-<!--     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a> -->
-<!--     <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    </a>
+     <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a> -->
+    </a>
     <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android studio" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-<!--     <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a> -->
-<!--     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+    </a> 
+    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a> -->
-<!--     <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+    </a>
+    <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a> -->
+    </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-<!--     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a> -->
-<!--     <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
+    </a>
+    <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="chaijs" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a> -->
-<!--     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+    </a>
+    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a> -->
-<!--     <a href="https://www.cloudfoundry.org/" target="_blank" rel="noreferrer">
+    </a>
+    <a href="https://www.cloudfoundry.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/cloudfoundry/cloudfoundry-icon.svg" alt="cloud-foundry" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a> -->
+    </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
@@ -299,24 +299,24 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshpathrabe&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="utkarshpathrabe" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=#&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="#" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=utkarshpathrabe&show_icons=true&locale=en&theme=gruvbox" alt="utkarshpathrabe" />
+    <img src="https://github-readme-stats.vercel.app/api?username=#&show_icons=true&locale=en&theme=gruvbox" alt="#" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshpathrabe&theme=gruvbox" alt="utkarshpathrabe" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=#&theme=gruvbox" alt="#" />
 </p>
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" alt="utkarsh pathrabe stats snake" />
+    <img src="https://github.com/#/#/blob/output/github-contribution-grid-snake-dark.svg" alt="utkarsh pathrabe stats snake" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="./assets/sunrise.jpeg?sanitize=true" alt="utkarshpathrabe" />
+    <img src="./assets/sunrise.jpeg?sanitize=true" alt="#" />
 </p>
 
