@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from Pakistan." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Python+for+AI+development+Developer+from+Pakistan" alt="Welcome to my GitHub Profile. I am a passionate AI Engineer from Pakistan." />
 </p>
 
 <h3 align='center' style='margin: 16px 4px;'>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center" style='margin: 16px 4px 8px; display: flex; gap: 2rem;'>
-    <img src="https://user-badge.committers.top/india/UtkarshPathrabe.svg" alt="github top commits rank" />
+    <img src="#" alt="github top commits rank" />
     <img src="https://komarev.com/ghpvc/?username=utkarshpathrabe&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
 </p>
 
